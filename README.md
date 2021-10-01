@@ -1,7 +1,4 @@
 # JDBC
 
-create database object to connect to db.
-
-mySQL.
-SQLSelectAll() working.
-SQLInsert() not finished.
+connection to mysql database with database object;
+methods for select and insert
